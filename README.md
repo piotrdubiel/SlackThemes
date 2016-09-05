@@ -5,3 +5,6 @@
 
 ### Polidea Playground
 `#4D5250,#168A7C,#86C6B1,#FFFFFF,#434745,#FFFFFF,#4BD168,#DB6668`
+
+### Hoth mod
+`#3c3c3d,#878787,#98a1ab,#FFFFFF,#878787,#ffffff,#60D156,#FF8669`
